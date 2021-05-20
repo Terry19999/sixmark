@@ -1,2 +1,0 @@
-# sixmark
-sixmark
